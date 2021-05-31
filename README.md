@@ -7,6 +7,8 @@ The System Performs the Following Functions:
 
 3) Home Page 
 
+![Home Page](https://github.com/sneha-almeida/Crime-Reporting-Using-Cloud/blob/main/Screenshot_20200425-131311.jpg)
+
 4) Sending Crime Data to Firebase
 
 5) Data in Firebase
